@@ -1,2 +1,2 @@
 # Control_projects
-Portafolio personal de proyectos y simulaciones de control 
+Personal portfolio of projects and control simulations.
